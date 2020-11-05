@@ -25,4 +25,4 @@ classes80.txt looks like this so you can change what to detect (using 80, full l
 * cat
 * dog
 
-[OpenCVforWindows.png]
+[OpenCVforWindows.png](OpenCVforWindows.png)
